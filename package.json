@@ -20,10 +20,10 @@
     "vuex": "4.0.2"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "5.0.7",
-    "@vue/cli-plugin-router": "5.0.7",
-    "@vue/cli-plugin-vuex": "5.0.7",
-    "@vue/cli-service": "5.0.7",
+    "@vue/cli-plugin-babel": "5.0.8",
+    "@vue/cli-plugin-router": "5.0.8",
+    "@vue/cli-plugin-vuex": "5.0.8",
+    "@vue/cli-service": "5.0.8",
     "node-sass": "7.0.1",
     "sass-loader": "13.0.2",
     "vue-cli-plugin-element": "1.0.1",
